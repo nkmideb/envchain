@@ -1,4 +1,4 @@
-envchain (1.0.1-0nkmi2) unstable; urgency=medium
+envchain (1.0.1-0nkmi2~xenial) xenial; urgency=medium
 
   * libreadline is not installable, use libreadline6
 
