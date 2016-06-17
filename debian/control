@@ -1,0 +1,14 @@
+Source: envchain
+Section: utils
+Priority: optional
+Maintainer: Sorah Fukumori <her@sorah.jp>
+Build-Depends: debhelper (>=9), libsecret-1-dev, libreadline-dev
+Standards-Version: 3.9.6
+Homepage: https://github.com/sorah/envchain
+Vcs-Git: git://github.com/nkmideb/envchain
+Vcs-Browser: https://github.com/nkmideb/envchain
+
+Package: envchain
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libsecret-1-0, libreadline
+Description: Set environment variables with libsecret; gnome-keyring

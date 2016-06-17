@@ -1,0 +1,15 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: envchain
+Source: https://github.com/sorah/envchain
+
+Files: *
+Copyright: 2014 Shota Fukumori (sora_h) <her@sorah.jp>
+License: Expat
+ <Put the license of the package here indented by 1 space>
+ <This follows the format of Description: lines in control file>
+ .
+ <Including paragraphs>
+
+Files: debian/*
+Copyright: 2016 Sorah Fukumori <her@sorah.jp>
+License: Expat
