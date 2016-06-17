@@ -4,3 +4,4 @@ files
 *.debhelper
 *.log
 tmp/
+debhelper-build-stamp
