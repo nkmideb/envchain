@@ -1,3 +1,9 @@
+envchain (1.0.1-0nkmi2) unstable; urgency=medium
+
+  * libreadline is not installable, use libreadline6
+
+ -- Sorah Fukumori <her@sorah.jp>  Fri, 17 Jun 2016 21:56:51 +0000
+
 envchain (1.0.1-0nkmi1~trusty) trusty; urgency=medium
 
   * Initial release
